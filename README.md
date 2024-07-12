@@ -1,4 +1,4 @@
 # Example repository
-This is a sample repo, hello world!
+This is a sample repo, hello coders!
 
-.md = MarkDown file
+This is a second change
